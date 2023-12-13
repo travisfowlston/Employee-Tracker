@@ -2,16 +2,17 @@
   "name": "employee-tracker",
   "version": "1.0.0",
   "description": "This repository contains all work related to the Module 12 Challenge for the UC Davis Coding Bootcamp.",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.18.2",
+    "console.table": "^0.10.0",
+    "dotenv": "^16.3.1",
     "inquirer": "^8.2.4",
     "mysql2": "^3.6.5"
   }

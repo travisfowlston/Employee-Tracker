@@ -21,7 +21,7 @@ The Module 12 Challenge objective was to build a command-line application from s
 
 ## Credits
 
-- Project was completed by Travis Fowlston.
+- Project was completed by Travis Fowlston in collaboration with classmate, Logan Fullerton.
 
 ## License
 
